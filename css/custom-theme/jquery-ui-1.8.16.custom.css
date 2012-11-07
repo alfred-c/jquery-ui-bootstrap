@@ -1007,7 +1007,7 @@ button.ui-button::-moz-focus-inner { border: 0; padding: 0; } /* reset extra pad
 }
 
 
-.ui-datepicker td .ui-state-active{
+.ui-datepicker td .ui-state-active, .ui-datepicker td .ui-state-highlight{
   background:#BFBFBF;
   margin-bottom:0px;
   font-size:normal;
